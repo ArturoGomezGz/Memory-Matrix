@@ -1,0 +1,1 @@
+print("logica del juego")
